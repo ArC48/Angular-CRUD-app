@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Beqa Khadilashvili",
+      "age": "21",
+      "salary": "1000"
+    },
+    {
+      "id": 4,
+      "name": "Anana Brekashvili",
+      "age": "21",
+      "salary": "900"
+    },
+    {
+      "id": 5,
+      "name": "Mari Sukhiashvili",
+      "age": "19",
+      "salary": "120"
+    },
+    {
+      "id": 6,
+      "name": "Giorgi Kakidashvili",
+      "age": "20",
+      "salary": "800"
+    },
+    {
+      "id": 7,
+      "name": "Roini Vardoshvili",
+      "age": "20",
+      "salary": "200"
+    },
+    {
+      "id": 8,
+      "name": "Sopo Omarashvili",
+      "age": "21",
+      "salary": "69"
+    },
+    {
+      "id": 10,
+      "name": "Paul Walker",
+      "age": "43",
+      "salary": "0"
+    },
+    {
+      "id": 11,
+      "name": "Tamar Mefe",
+      "age": "49",
+      "salary": "1000"
+    },
+    {
+      "id": 12,
+      "name": "Davit Agmashenebeli",
+      "age": "50",
+      "salary": "6000"
+    },
+    {
+      "id": 14,
+      "name": "Nikola Tesla",
+      "age": "90",
+      "salary": "2340"
+    },
+    {
+      "id": 15,
+      "name": "Vin Diesel",
+      "age": "48",
+      "salary": "1000"
+    }
+  ]
+}
